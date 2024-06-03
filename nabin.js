@@ -1,4 +1,7 @@
-function sum(a,b) {
-  return a + b;
+let a=10;
+let b=0;
+
+function sum() {
+  return a - b;
 }
-console.log(sum(2,3));
+console.log(sum());
