@@ -5,7 +5,7 @@
   
   const scores={
     math:30,
-    science:45
+    science:100
   }
   
   const markSheet={
