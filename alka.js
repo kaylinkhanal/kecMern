@@ -1,6 +1,6 @@
 const obj ={
     name :"alka",
-    roll: 9
+    roll: 90
 
 }
 console.log(obj.name);
