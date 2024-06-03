@@ -1,3 +1,3 @@
 
-const naam = "Hari Krishna"
+const naam = "Hari jeken"
 naam.split('').reverse().join('')
