@@ -1,2 +1,2 @@
-const a =100000000
+const a =400000000
 console.log(a%2)
