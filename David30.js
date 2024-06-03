@@ -4,7 +4,7 @@
   }
   
   const scores={
-    math:40,
+    math:30,
     science:45
   }
   
