@@ -1,5 +1,5 @@
 let a;
 let b;
 const mul = (a, b) => a * b;
-mul(5, 3); 
+mul(5, 10); 
 
