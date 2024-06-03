@@ -1,6 +1,6 @@
 const obj ={
-    name :alka,
+    name :"alka",
     roll: 9
 
 }
-console.log(obj.roll);
+console.log(obj.name);
