@@ -1,1 +1,10 @@
+Important Commands:
+
 create new branch -> git checkout -b reversestring
+checkout braches -> git fetch
+                 -> git checkout reversestring
+
+ACP:
+-> git add .
+-> git commit -m "any message here"
+-> git push -u origin main
