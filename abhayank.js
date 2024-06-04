@@ -1,3 +1,4 @@
+//const message =()=> 'Hello mernStack';
 const message =()=> 'Hello World';
 const message2=()=>'Hello Abhaya';
 console.log(message2);
